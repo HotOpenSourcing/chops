@@ -19,7 +19,6 @@ build/
 Packages/
 
 # Environment
-.env
 
 # macOS
 .DS_Store
@@ -36,3 +35,5 @@ site/node_modules/
 site/dist/
 site/.astro/
 site/.wrangler/
+config.bat
+node_modules
